@@ -1,0 +1,13 @@
+# Docker environment secrets (Bảo mật biến môi trường)
+.env
+.env.local
+.env.*.local
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Hệ điều hành
+.DS_Store
+Thumbs.db
